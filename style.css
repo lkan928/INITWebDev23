@@ -5,7 +5,7 @@ html, body {
   width: 100%;
 }
 body {
-  background-color: #B0D3AC;
+  background-color: #9c9cf0;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h6 {
       font-size: 12px;
-      color: brown;
+      color: white;
 }
 
 img {
